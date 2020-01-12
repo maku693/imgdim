@@ -1,1 +1,1 @@
-# goimageresize
+# imgdim
